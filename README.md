@@ -1,7 +1,6 @@
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: flex-start;">
 
+<div style="flex: 1; padding-right: 20px;">
 Hi there 👋, I'm Areeba  
 
 📚 **About me:**  
@@ -12,10 +11,10 @@ Hi there 👋, I'm Areeba
 💻 Enjoy bridging theory and practice: implementing secure protocols, designing schemes, writing proofs.  
 👐 Explore multiple domains in security, cryptography, and privacy.  
 ✈️ Love travel, food, and adventure — saving experiences over things!
+</div>
 
-    </td>
-    <td>
-      <img src="github.gif" width="200">
-    </td>
-  </tr>
-</table>
+<div style="flex: 0;">
+<img src="github.gif" width="200">
+</div>
+
+</div>
