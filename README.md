@@ -1,6 +1,6 @@
-<table>
+<table style="border: none;">
   <tr>
-    <td style="vertical-align: top; padding-right: 20px;">
+    <td style="vertical-align: top; padding-right: 20px; border: none;">
 Hi there 👋, I'm Areeba  
 
 📚 **About me:**  
@@ -12,7 +12,7 @@ Hi there 👋, I'm Areeba
 👐 Explore multiple domains in security, cryptography, and privacy.  
 ✈️ Love travel, food, and adventure — saving experiences over things!
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; border: none;">
       <img src="github.gif" width="200">
     </td>
   </tr>
