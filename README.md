@@ -1,7 +1,8 @@
-<div style="display: flex; align-items: flex-start;">
+<img src="github.gif" width="1280" height="240">
 
-<div style="flex: 1; padding-right: 20px;">
-<p>
+## 📚 About me:
+
+
 Hi there 👋, I'm Areeba<br><br>
 📚 <b>About me:</b><br>
 🎓 I’m a master’s student and aspiring researcher in cryptography, passionate about applied crypto, MPC, ZKPs, and isogeny-based protocols.<br>
@@ -11,11 +12,9 @@ Hi there 👋, I'm Areeba<br><br>
 💻 Enjoy bridging theory and practice: implementing secure protocols, designing schemes, writing proofs.<br>
 👐 Explore multiple domains in security, cryptography, and privacy.<br>
 ✈️ Love travel, food, and adventure — saving experiences over things!
-</p>
-</div>
 
-<div style="flex: 0;">
-<img src="github.gif" width="200" style="display: block;">
-</div>
 
-</div>
+
+
+
+
