@@ -1,4 +1,4 @@
-| ![Profile Image](your-image-url.png) | Hi there 👋, I'm Areeba  
+| ![Profile Image](github.gif) | Hi there 👋, I'm Areeba  
 
 📚 **About me:**  
 🎓 I’m a master’s student and aspiring researcher in cryptography, passionate about applied crypto, MPC, ZKPs, and isogeny-based protocols.  
